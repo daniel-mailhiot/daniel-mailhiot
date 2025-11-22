@@ -1,13 +1,15 @@
 ## Hi there 👋 I'm Daniel
 
-
 - 🔭 I'm currently studying software development through UBC's Extended Learning Program with a focus on the MERN stack: MongoDB, Express, React, Node.
+<br>
 
 - 😎 What I bring to the team:
-  - Experience with collaborative Git-driven workflows for game audio implementation, and a track record of working autonomously to meet deadlines as a Service & Operations Coordinator.
+  - Experience with collaborative Git-driven workflows for game audio implementation, and a track record of working autonomously to reliably meet deadlines as a Service & Operations Coordinator.
   - I pair collaborative, Git-driven workflows with a service mindset on every project, building responsive web applications to help teams deliver reliably and meet tight deadlines with clear, well-documented and maintainable code.
+<br>
 
 - 🌱 Looking to collaborate with teams and on projects where I can contribute and grow.
+<br>
 
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/danielmailhiot/
