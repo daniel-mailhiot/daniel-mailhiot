@@ -8,6 +8,12 @@
   - I pair collaborative, Git-driven workflows with a service mindset on every project, building responsive web applications to help teams deliver reliably and meet tight deadlines with clear, well-documented and maintainable code.
 <br>
 
+- 🔧 What I use to build:
+  - Languages: JavaScript, HTML, CSS
+  - Frameworks & Platforms: React, Node.js, Express.js, Flask, Bootstrap
+  - Databases & Tools: MongoDB, Git, GitHub, Sourcetree, Postman, Docker, VS Code
+<br>
+
 - 🌱 Looking to collaborate with teams and on projects where I can contribute and grow.
 <br>
 
